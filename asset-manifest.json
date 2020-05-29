@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TESTREACTCURD/static/css/main.8a15d8e6.chunk.css",
+    "main.js": "/TESTREACTCURD/static/js/main.bab8eda5.chunk.js",
+    "main.js.map": "/TESTREACTCURD/static/js/main.bab8eda5.chunk.js.map",
+    "runtime-main.js": "/TESTREACTCURD/static/js/runtime-main.0bb7f0f7.js",
+    "runtime-main.js.map": "/TESTREACTCURD/static/js/runtime-main.0bb7f0f7.js.map",
+    "static/js/2.efaee7f4.chunk.js": "/TESTREACTCURD/static/js/2.efaee7f4.chunk.js",
+    "static/js/2.efaee7f4.chunk.js.map": "/TESTREACTCURD/static/js/2.efaee7f4.chunk.js.map",
+    "index.html": "/TESTREACTCURD/index.html",
+    "precache-manifest.87a826ac48fcd4534fc6c0a1b9717743.js": "/TESTREACTCURD/precache-manifest.87a826ac48fcd4534fc6c0a1b9717743.js",
+    "service-worker.js": "/TESTREACTCURD/service-worker.js",
+    "static/css/main.8a15d8e6.chunk.css.map": "/TESTREACTCURD/static/css/main.8a15d8e6.chunk.css.map",
+    "static/js/2.efaee7f4.chunk.js.LICENSE.txt": "/TESTREACTCURD/static/js/2.efaee7f4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bb7f0f7.js",
+    "static/js/2.efaee7f4.chunk.js",
+    "static/css/main.8a15d8e6.chunk.css",
+    "static/js/main.bab8eda5.chunk.js"
+  ]
+}
